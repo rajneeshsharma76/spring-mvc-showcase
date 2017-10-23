@@ -40,10 +40,10 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        I am adding this extra line
+                        Rajneesh is  adding this extra line
                  </p>
 <p>
-This is the second line to be added
+This is the Rajneesh Sharma line to be added
 </p>
 		<ul>
 			<li>
